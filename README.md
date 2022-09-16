@@ -1,4 +1,13 @@
 # projeto-imersao-CSS
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Imersão CSS**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://github.com/fab-souza/projeto-imersao-CSS
+| :fire: Desafio     | https://www.alura.com.br/imersao-css
+
+
 Página desenvolvida durante a #ImersaoHipster, em maio de 2020.
 
 A Imersão foi composta por 5 aulas, que mostraram como criar um portfólio do zero.
