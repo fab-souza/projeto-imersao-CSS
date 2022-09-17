@@ -9,7 +9,7 @@
 
 Página desenvolvida durante a #ImersaoHipster, em maio de 2020.
 
-![](https://user-images.githubusercontent.com/67301805/190532087-278a3f06-eb2d-4a73-9d76-e3f4e76759ff.jpg#vitinedev)
+![](https://user-images.githubusercontent.com/67301805/190532087-278a3f06-eb2d-4a73-9d76-e3f4e76759ff.jpg#vitrinedev)
 
 A Imersão foi composta por 5 aulas, que mostraram como criar um portfólio do zero.
 Além da presença do Paulo Silveira, as aulas foram ministradas pelas instrutoras Vanessa Tonini e Juliana Amoasei.
