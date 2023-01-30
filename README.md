@@ -16,4 +16,8 @@ Além da presença do Paulo Silveira, as aulas foram ministradas pelas instrutor
 
 Eu amei fazer este projeto, sei que o grid do portfólio está estranho e que preciso rever os conceitos de display, mas foi este projeto que me proporcionou a sensação de que eu poderia aprender programação. Aprendi o que é front-end, como aplicar e compartilhar com outras pessoas o que aprendi, e até uma vontade de fazer um layout para um blog pessoal (que ainda não saiu do papel...), sem contar que despertou uma curiosidade e vontade de aprender a programar, algo inexistente na época. 
 
-A página pode ser acessada neste link: https://fabdesouza.me/projeto-imersao-CSS/
+A página pode ser acessada [aqui](https://fabdesouza.me/projeto-imersao-CSS/).
+
+---
+
+Muito obrigada por chegar até aqui e até a próxima 🤗
